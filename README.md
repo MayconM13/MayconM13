@@ -1,6 +1,6 @@
 ## Olá! Eu sou Maycon M.
 ### Como me refrênciar
-- 🫡 Pronomes: Ele/Dele
+- 😎 Pronomes: Ele/Dele
 - ✝️ Cristão 
 - 📖 Tiago 1: 5 - 7
 
