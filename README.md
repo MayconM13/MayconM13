@@ -32,6 +32,7 @@
 - 📚 Ler
 - 🎵 Escutar Música
 - 🎲 Jogar RPGs
+- 📹 Assistir Filmes & Series
 
 ##
 ### 📱Redes Sociais:
@@ -42,3 +43,5 @@
 <a href = "mayconvictor521@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://discord.gg/4aFpDt4F"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 </div>
+
+![snake animation](https://github.com/MayconM13/MayconM13/blob/output-contribution-grid-snake.svg)
