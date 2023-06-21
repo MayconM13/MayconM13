@@ -44,4 +44,6 @@
 <a href="https://discord.gg/4aFpDt4F"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 </div>
 
+##
+### 💬 My Commits
 ![snake animation](https://github.com/MayconM13/MayconM13/blob/main/github-contribution-grid-snake.svg)
