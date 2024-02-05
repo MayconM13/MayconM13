@@ -8,7 +8,7 @@
 
 ### O que eu Faço
 - 🔭 Hoje trabalho com tecnologias Front-End, como estágiario na empressa Strata Engenharia 🚐
-- 🌱 3° Período da Faculdade de Ciência da Computação pela Estácio de Sá 🔷
+- 🌱 5° Período da Faculdade de Ciência da Computação pela Estácio de Sá 🔷
 - 🌱 Realizando Cursos on-lines de desenvolvimento Web 💻
 - 🌱 Aluno do Curso TDI FCO 🎩
 
